@@ -1,0 +1,3 @@
+D:/DataAutomateAssessment/cmake-build-debug/CMakeFiles/DataAutomateAssessment.dir
+D:/DataAutomateAssessment/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DataAutomateAssessment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
